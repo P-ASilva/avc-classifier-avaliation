@@ -3,8 +3,8 @@
 APS 6 - Algebra Linear e Teoria da Informação - 2023.1
 
 ## Integrantes do grupo
-* [Pedro Antonio](https://github.com/TODO)
-* [Gustavo Pacheco](https://github.com/TODO)
+* [Pedro Antonio](https://github.com/P-ASilva)
+* [Gustavo Pacheco](https://github.com/gustavolp1)
 * [Julia Karine](https://github.com/Juliakp1)
 
 # Indice

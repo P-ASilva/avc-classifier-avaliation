@@ -25,6 +25,7 @@ Requerimentos:
 - Python
 - pip
     - numpy
+    - sklearn
 
 File a rodar no IDE:
 - demo.py
